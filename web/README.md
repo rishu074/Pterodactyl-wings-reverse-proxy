@@ -23,4 +23,4 @@
 
 ## 🏁 Installing 
 
-Just Paste ReverseProxyWeb.conf in your ```/etc/nginx/sites-enaabled/`` and dont forget to configure it. 
+Just Paste ReverseProxyWeb.conf in your ```/etc/nginx/sites-enaabled/``` and dont forget to configure it. 
