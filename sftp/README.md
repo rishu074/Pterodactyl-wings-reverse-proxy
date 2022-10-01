@@ -17,7 +17,9 @@
 
 ## 🏁 Installing
 
-OPEN ``` nano /etc/nginx/nginx.conf```.
+OPEN ``` nano /etc/nginx/nginx.conf```
+
+
 AFTER
 ```
 
