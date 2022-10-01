@@ -11,10 +11,10 @@
 
 ---
 
-<p align="center"> Reverse proxy of console, files manager with ssl of pterodactyl Wings.
+<p align="center"> Reverse proxy of console, files manager with ssl and sftp reverse proxy of Pterodactyl wings.
     <br> 
 </p>
 
 ## 🏁 Installing
 
-Just Paste `ReverseProxyWeb.conf` in your `/etc/nginx/sites-enaabled/` and dont forget to configure it.
+See ```web``` and ```sftp``` folders!
